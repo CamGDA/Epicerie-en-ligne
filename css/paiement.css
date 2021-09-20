@@ -1,0 +1,23 @@
+.emptyCart {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .back {
+    margin: 50px 0px 50px 0px;
+  }
+
+
+.block {
+    display: flex;
+    flex-direction: row;
+}
+
+.left {
+    width: 500px;
+    margin-right: 100px;
+}
+
+.right {
+    width: 400px;
+}
